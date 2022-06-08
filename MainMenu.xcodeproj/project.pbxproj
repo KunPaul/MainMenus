@@ -16,6 +16,7 @@
 		2E42C495284BBB9E00D6FDA8 /* SettingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E42C493284BBB9E00D6FDA8 /* SettingTableViewCell.swift */; };
 		2E42C496284BBB9E00D6FDA8 /* SettingTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E42C494284BBB9E00D6FDA8 /* SettingTableViewCell.xib */; };
 		2E42C498284F6F5100D6FDA8 /* SwitchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E42C497284F6F5100D6FDA8 /* SwitchTableViewCell.swift */; };
+		2E42C49C2850F91100D6FDA8 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E42C49B2850F91100D6FDA8 /* Models.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		2E42C493284BBB9E00D6FDA8 /* SettingTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingTableViewCell.swift; sourceTree = "<group>"; };
 		2E42C494284BBB9E00D6FDA8 /* SettingTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SettingTableViewCell.xib; sourceTree = "<group>"; };
 		2E42C497284F6F5100D6FDA8 /* SwitchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchTableViewCell.swift; sourceTree = "<group>"; };
+		2E42C49B2850F91100D6FDA8 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				2E42C493284BBB9E00D6FDA8 /* SettingTableViewCell.swift */,
 				2E42C494284BBB9E00D6FDA8 /* SettingTableViewCell.xib */,
 				2E42C497284F6F5100D6FDA8 /* SwitchTableViewCell.swift */,
+				2E42C49B2850F91100D6FDA8 /* Models.swift */,
 			);
 			path = MainMenu;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				2E2FB25C2848EF760099CDD6 /* ViewController.swift in Sources */,
 				2E2FB2582848EF760099CDD6 /* AppDelegate.swift in Sources */,
 				2E42C498284F6F5100D6FDA8 /* SwitchTableViewCell.swift in Sources */,
+				2E42C49C2850F91100D6FDA8 /* Models.swift in Sources */,
 				2E42C495284BBB9E00D6FDA8 /* SettingTableViewCell.swift in Sources */,
 				2E2FB25A2848EF760099CDD6 /* SceneDelegate.swift in Sources */,
 			);
